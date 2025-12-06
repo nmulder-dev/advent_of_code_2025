@@ -1,0 +1,1 @@
+{"version":3,"file":"day01.d.ts","sourceRoot":"","sources":["../../src/days/day01.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,WAAW,EAAE,MAAM,gBAAgB,CAAC;AAE7C,qBAAa,KAAM,SAAQ,WAAW;IACpC,OAAO,CAAC,KAAK,CAAS;gBAEV,KAAK,EAAE,MAAM;IAKzB,KAAK,IAAI,MAAM,GAAG,MAAM;IAKxB,KAAK,IAAI,MAAM,GAAG,MAAM;CAIzB"}
